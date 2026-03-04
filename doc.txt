@@ -1,0 +1,22 @@
+Common Git Commands:
+
+1. git init
+   Used to initialize a new Git repository.
+
+2. git status
+   Shows the current status of files.
+
+3. git add .
+   Adds all files to staging area.
+
+4. git commit -m "message"
+   Saves changes with a message.
+
+5. git branch
+   Shows all branches.
+
+6. git checkout branch-name
+   Switches to another branch.
+
+7. git merge branch-name
+   Merges another branch into current branch.
